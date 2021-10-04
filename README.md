@@ -1,2 +1,2 @@
 # glassmorphism.github.io
-This is an example of glassmorphism.
+This is an example of glassmorphism css.
